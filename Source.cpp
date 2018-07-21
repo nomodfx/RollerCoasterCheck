@@ -1,5 +1,5 @@
-//This program printe out whether or not a person waiting in line for a rollercoaster ride is allowed.
-//Conditions: No pregnant women, someone shorter than 48 inches
+//This program prints out whether or not a person waiting in line for a rollercoaster ride is allowed.
+//Conditions: No pregnant women, someone shorter than 48 inches allowed to get on.
 //If one of these people, prints apologetic message, otherwise print okay
 #include<iostream>
 using namespace std;
